@@ -14,3 +14,16 @@ Here is what to do:
    ```bash
    cd /path/to/the/folder/holding/your/Pong/project
    ```
+   Probably something like:
+   ```bash
+   cd /GameDesign2/Unity
+   ```
+   Or if you folder names include spaces:
+   ```bash
+   cd "/Game Design/Unit Projects"
+   ```
+1. Confirm that you are in the right place:
+   ```bash
+   ls
+   ```
+   In the result you should see your Pong folder.
